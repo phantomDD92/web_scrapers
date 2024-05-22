@@ -17,9 +17,15 @@ API Endpoint : https://dtchub-api.azurewebsites.net/api
 
 Scraping results: json files, image files
 
+Tools: requests
+
 ### uploader
 Uploading scripts for https://green-triangle-uk.github.io/OrderCloudUIUAT/DTC
 
 API Endpoint: https://gtlibs.com:7014/api
 
 Swagger : https://gtlibs.com:7014/swagger/index.html
+
+## biorisk scraper
+
+Web scraper for https://biorisk-site.s3-website-eu-west-1.amazonaws.com
