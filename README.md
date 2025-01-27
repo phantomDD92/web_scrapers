@@ -36,3 +36,9 @@ Google Search Page Downloader
 
 ### google_image : Google Image Downloader
 
+## Hebeiyoungwill Scraper
+
+Web scraper for https://hebeiyoungwill.com
+
+Framework: Shopify, React
+
